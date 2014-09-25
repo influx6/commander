@@ -7,6 +7,6 @@ dependencies:
    streamable: any
    hub: any
    path: any
-dependency_overrides:
-  hub:
-    path: ../hub
+# dependency_overrides:
+#   hub:
+#     path: ../hub
